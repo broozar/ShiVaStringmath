@@ -12,7 +12,7 @@ local res5 = sm.calculateUnsignedLong ( "100", "3", sm.kPow )
 
 ## Supported number types
 - double
-- singned long (long)
+- signed long (long)
 - unsigned long (long)
 
 ## Supported operations
